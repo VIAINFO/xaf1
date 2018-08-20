@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="VIAMOBIL.Mobile.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ViaMobile.Mobile.Global" Language="C#" %>
